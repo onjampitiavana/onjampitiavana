@@ -5,48 +5,47 @@
 ---
 
 ## 🚀 About me
-- 🧑‍💻 Junior developer (frontend & backend)
-- 🌐 I enjoy building web & mobile applications
-- ⚙️ Focused on clean code and practical solutions
-- 🗄️ Passionate about databases and system design
+- Junior developer (frontend & backend)
+- I enjoy building web & mobile applications
+- Focused on clean code and practical solutions
+- Passionate about databases and system design
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-- JavaScript
-- PHP
+### Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+</p>
 
-**Frameworks & Tools**
-- Express.js
-- React
-- Laravel
-- React Native
-- Docker
-- n8n
-- Git
+### Frameworks & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+</p>
 
-**Databases**
-- MySQL
-- MongoDB
-- PostgreSQL
-- SQLite
+### Databases
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
+</p>
 
 ---
 
 ## 📌 What I do
-- 🌍 Web applications (frontend & backend)
-- 📱 Mobile apps with React Native
-- 🔧 Backend APIs & services
-- 🗃️ Database design and management
+- Web applications (frontend & backend)
+- Mobile apps with React Native
+- Backend APIs & services
+- Database design and management
 
 ---
 
 ## 📫 Contact
-- ✉️ Email: onjampitiavanasantatriniaina@gmail.com
-
----
-
-## ⚡ Fun fact
-I enjoy turning ideas into real, working applications 🚀
+- Email: onjampitiavanasantatriniaina@gmail.com
