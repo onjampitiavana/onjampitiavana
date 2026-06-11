@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hey, I'm Santatra
 
-<!--
-**onjampitiavana/onjampitiavana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior developer passionate about building apps, working on both frontend & backend, and exploring database systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About me
+- 🧑‍💻 Junior developer (frontend & backend)
+- 🌐 I enjoy building web & mobile applications
+- ⚙️ Focused on clean code and practical solutions
+- 🗄️ Passionate about databases and system design
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- JavaScript
+- PHP
+
+**Frameworks & Tools**
+- Express.js
+- React
+- Laravel
+- React Native
+- Docker
+- n8n
+- Git
+
+**Databases**
+- MySQL
+- MongoDB
+- PostgreSQL
+- SQLite
+
+---
+
+## 📌 What I do
+- 🌍 Web applications (frontend & backend)
+- 📱 Mobile apps with React Native
+- 🔧 Backend APIs & services
+- 🗃️ Database design and management
+
+---
+
+## 📫 Contact
+- ✉️ Email: onjampitiavanasantatriniaina@gmail.com
+
+---
+
+## ⚡ Fun fact
+I enjoy turning ideas into real, working applications 🚀
